@@ -6,12 +6,15 @@ The purpose of this analysis was to help Maria and her supervisor look through t
 
 
 ##Results:
-  -The district summary was affected by changes in the average math, reading and overall passing percentage by 2% more than the original dataset. 
+
+  -The district summary was affected by changes in the average math, reading and overall passing percentage by 2% less than the original dataset. 
   
   ![Screenshot](/district_old.PNG)
+    ![Screenshot](/District_new.PNG)
   
-  
-  -The school 
+  -The school summary is affected because the averages all go up the moment you adjust the 9th grade scores by a good amount and seems to bring up the percentages a good amount        nearly 25%.
+   ![Screenshot](/Old_Sinfo.PNG)
+    ![Screenshot](/New_Sinfo.PNG)
   -
   -
   
